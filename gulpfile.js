@@ -7,7 +7,7 @@ var del = require('del');
 
 var paths = {
   scripts: {
-    src: ['./inert.js', './node_modules/babel-polyfill/dist/polyfill.js'],
+    src: './inert.js',
     dest: 'dist'
   }
 };
