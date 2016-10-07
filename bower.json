@@ -1,0 +1,23 @@
+{
+  "name": "inert",
+  "description": "A polyfill for the proposed inert API",
+  "main": "inert.js",
+  "authors": [
+    "Rob Dodson <robdodson@chromium.org>",
+    "Jesse Beach",
+    "Brian Kardell"
+  ],
+  "license": "Apache-2.0",
+  "keywords": [
+    "inert",
+    "polyfill",
+    "browser"
+  ],
+  "homepage": "https://github.com/jeffersonmourak/inert",
+  "ignore": [
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
